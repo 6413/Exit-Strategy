@@ -1,6 +1,6 @@
 # Exit Strategy - Suspenseful puzzle game
 
-School project using Unity made by:
+2022 School project using Unity made by:
 
 **Joel Mieskonen**
 
