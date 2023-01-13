@@ -6,7 +6,7 @@ School project using Unity made by:
 
 **Erkka Lappala**
 
-**Joona Karhu* *
+**Joona Karhu**
 
 Download link to the game:https://drive.google.com/file/d/17VKba7UEZEEzpoKQbkAe5_Yq13c97Xiv/view?usp=sharing
 
